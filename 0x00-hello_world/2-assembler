@@ -1,0 +1,3 @@
+#!bin/bash
+[D[D[A[C[C/bin/bash
+gcc -S $CFILE
